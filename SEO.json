@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "electronics-retail-management",
+  "description": "Electronics Retail Management — Retail Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Electronics retail for serial tracking, warranties, EMI, service tickets, and branch stock. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "retail",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/electronics-retail-management"
+}
